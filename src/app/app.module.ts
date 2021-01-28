@@ -9,8 +9,8 @@ import { ToonComponent } from './toon/toon.component';
 @NgModule({
   declarations: [
     AppComponent,
-    TromistComponent
-    ToonComponent
+    TromistComponent,
+    ToonComponent,
   ],
   imports: [
     BrowserModule,
